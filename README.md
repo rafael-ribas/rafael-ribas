@@ -94,3 +94,8 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=rafael-rib
 
 [![GitHub
 Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafael-ribas&theme=dark)](https://git.io/streak-stats)
+
+**GitHub Stats:** 
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rafael-ribas&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=rafael-ribas&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true)
+
