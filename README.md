@@ -1,32 +1,33 @@
-# Hi, I'm Rafael Ribas
+# Hi, I'm Rafael
 
-**Python Data Engineer focused on building data pipelines, automation
-systems, and analytical tools.**
+**Data & Automation Professional with a background in Economics, Finance, and Business Intelligence.**
 
-I design and implement end-to-end data workflows --- from data
-extraction and transformation to storage, analysis, and automated
-reporting.
+I build data-driven solutions that transform complex processes into reliable workflows through Python, SQL, automation, and analytics.
+
+My work combines business understanding, data analysis, and software development to improve decision-making, reduce manual effort, and create practical tools for real-world problems.
 
 ------------------------------------------------------------------------
 
 ## 🚀 What I Do
 
--   Build **ETL pipelines** using Python
--   Automate data collection from APIs and dynamic websites
--   Design structured data models and relational databases
--   Generate analytical and financial reports
--   Develop practical tools and desktop applications
+-   Build data analysis and reporting solutions
+-   Automate repetitive business processes using Python
+-   Develop data collection and integration workflows
+-   Create APIs, desktop tools, and automation systems
+-   Transform raw data into actionable business insights
 
 ------------------------------------------------------------------------
 
 ## 🧠 Core Expertise
 
--   Data Extraction (APIs, Web Scraping, Public and Private Datasets)
--   Data Transformation & Cleaning
--   Relational Database Modeling
--   Automated Reporting (HTML / PDF)
--   Logging & Modular Architecture
--   CLI-based automation workflows
+-   Data Analysis & Business Intelligence
+-   Python Automation & Process Optimization
+-   SQL & Relational Databases
+-   ETL & Data Integration
+-   Web Scraping & API Development
+-   Financial & Operational Analytics
+-   Reporting & Decision Support Systems
+-   Software Architecture & Modular Design
 
 ------------------------------------------------------------------------
 
@@ -50,29 +51,32 @@ Scraping](https://img.shields.io/badge/Web%20Scraping-Automation-orange)
 
 ## 📊 Areas of Interest
 
--   Financial & Market Data Analysis
--   Risk & Correlation Metrics
+-   Data Analytics & Business IntelligenceFinancial & Market Data Analysis
 -   Process Automation
--   Data Infrastructure
--   Cloud-ready Data Systems
+-   Financial & Economic Data
+-   Data Engineering
+-   Analytics Engineering
+-   Productivity Systems
+-   Business Process Optimization
 
 ------------------------------------------------------------------------
 
 ## 📌 Current Focus
 
--   Improving pipeline architecture
--   Strengthening database modeling skills
--   Expanding into API development (FastAPI)
--   Advancing toward production-ready data systems
+-   Building a strong portfolio in Data Analytics and BI
+-   Expanding expertise in data modeling and analytics engineering
+-   Exploring into API development (FastAPI)
+-   Developing production-ready Python applications
 
 ------------------------------------------------------------------------
 
 ## 🤝 Open to Collaborate On
 
--   Data Engineering projects
--   Automation tools
--   Financial data analysis
--   Scraping and data acquisition systems
+* Data Analytics projects
+* Business Intelligence solutions
+* Python automation systems
+* Financial and operational analytics
+* Data collection and integration projects
 
 ------------------------------------------------------------------------
 
@@ -83,14 +87,8 @@ Scraping](https://img.shields.io/badge/Web%20Scraping-Automation-orange)
 
 ------------------------------------------------------------------------
 
-## 📊 GitHub Activity
+## 🧠 Background
 
-**Activity Graph:** 
-
-[![Rafael's github activity
-graph](https://github-readme-activity-graph.vercel.app/graph?username=rafael-ribas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-**Contribution Streak:** 
-
-[![GitHub
-Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafael-ribas&theme=dark)](https://git.io/streak-stats)
+🎓 Economics & Controllership
+💻 Python • SQL • Data Analytics • Automation
+📈 Business, Finance & Data-Driven Decision Making
