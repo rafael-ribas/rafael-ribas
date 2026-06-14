@@ -90,5 +90,7 @@ Scraping](https://img.shields.io/badge/Web%20Scraping-Automation-orange)
 ## 🧠 Background
 
 🎓 Economics & Controllership
+
 💻 Python • SQL • Data Analytics • Automation
+
 📈 Business, Finance & Data-Driven Decision Making
