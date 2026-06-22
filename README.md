@@ -2,6 +2,9 @@
 
 **Data & Automation Professional with a background in Economics, Finance, and Business Intelligence.**
 
+[https://rafael-ribas.github.io/](https://rafael-ribas.github.io/)
+
+
 I build data-driven solutions that transform complex processes into reliable workflows through Python, SQL, automation, and analytics.
 
 My work combines business understanding, data analysis, and software development to improve decision-making, reduce manual effort, and create practical tools for real-world problems.
